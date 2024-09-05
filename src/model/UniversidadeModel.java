@@ -12,6 +12,8 @@ public class UniversidadeModel {
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private int idUniversidade;
 	
+	private String nome;
+
 	public UniversidadeModel() {
 		
 	}
@@ -21,7 +23,6 @@ public class UniversidadeModel {
 		this.nome = nome;
 	}
 
-	private String nome;
 
 	public String getNome() {
 		return nome;
