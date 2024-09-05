@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\50697663841\\Downloads\\mysql-connector-j-9.0.0.jar",
+        "c:\\Users\\50697663841\\Downloads\\hibernate-core-6.5.2.Final-javadoc.jar",
+        "c:\\Users\\50697663841\\Downloads\\persistence-api-1.0.2.jar"
+    ]
+}
